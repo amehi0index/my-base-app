@@ -5,6 +5,9 @@ import { Providers } from './providers'
 export const metadata: Metadata = {
   title: 'My Base App',
   description: 'Base Sepolia tally app',
+  other: {
+    'base:app_id': '69cd84a972d2b4584ea2eefd',
+  },
 }
 
 export default function RootLayout({
