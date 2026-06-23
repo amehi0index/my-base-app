@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: 'My Base App',
   description: 'Base Sepolia tally app',
   other: {
-    'base:app_id': '69cd84a972d2b4584ea2eefd',
+    'base:app_id': '6a3aa3c8303847e6f69746a0',
   },
 }
 

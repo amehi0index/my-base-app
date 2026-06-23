@@ -35,7 +35,7 @@ export function ConnectWallet() {
 
   return (
     <div className="flex flex-col items-center gap-3">
-      <span className="rounded bg-gray-100 px-3 py-1 font-mono text-sm">
+      <span className="rounded bg-gray-200 px-3 py-1 font-mono text-sm">
         Connected: {address?.slice(0, 6)}...{address?.slice(-4)}
       </span>
 
